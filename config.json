@@ -1,0 +1,13 @@
+{
+  "calendarIds": {
+    "Salón 1": "7951de91f757b5389db6c3fc19e559e3f1e0994da43d7d96d6adce48bb4675f2@group.calendar.google.com",
+    "Salón 2": "02514068d078f4ed690a84a9189dc664c96684775c4b91937940ae86a50dd5c7@group.calendar.google.com",
+    "Salón 3": "7ce7743b66e9c86fb95f51ee9278348258abae1ff7050e2fb6e6ed35a5bd7ae0@group.calendar.google.com",
+    "Salón 4": "a314eb827d78c10a02fde5e643060e3370659b2edff7d04e9cb52bcda3f9fe7a@group.calendar.google.com"
+  },
+  "keyFilePath": "C:/Prog_Cargue_Salones/configuraciones/cogent-sunspot-404022-101e58021481.json",
+  "logDirectoryPath": "C:/Prog_Cargue_Salones/logs",
+  "merchantCode": "MC1220",
+  "merchantKey": "83C3A53C05553cb",
+  "maxResults": 3
+}
