@@ -9,3 +9,5 @@ Se conecta con la API de google Calendars para extraer lña información de even
 
 Cada vez que se ejecuta el programa verifica el calendario, toma la información que esta vigente y por venir (2 eventos siguientes) sobre eventos en el calendario, y los envia al API del fabricante de las etiquetas ESL para que luego este ultimo se encargue de mandar a cargar la información recibida en las pantallas de los salones a los que se le pidio consultar y tomar la información.
 
+En la carpeta configuraciones debe ser ubicado el archivo json que genera google calendar para poder conectarse con el calendario. tiene n estructura algo asi en su nombre cogent-sunspot-404022-101e58021481.json    El programa consulta ese archivo y junto con otros parametros que estan en el archivo config.json realiza la tarea antes descrita.
+
